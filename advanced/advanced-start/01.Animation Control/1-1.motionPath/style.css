@@ -11,6 +11,12 @@ svg {
   /* height: 100vh; */
 }
 
+.progress {
+  width: 0%;
+  height: 5px;
+  background:linear-gradient(100deg, rgb(74, 22, 22),red,white,blue,black,pink);
+}
+
 button {
   padding: 1rem;
   cursor: pointer;
